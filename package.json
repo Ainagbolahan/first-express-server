@@ -1,0 +1,24 @@
+{
+  "name": "express-js-1",
+  "version": "1.0.0",
+  "description": "Express Srever ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ainagbolahan/first-express-server.git"
+  },
+  "keywords": [
+    "first",
+    "express",
+    "server"
+  ],
+  "author": "Aina Gbolahan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ainagbolahan/first-express-server/issues"
+  },
+  "homepage": "https://github.com/Ainagbolahan/first-express-server#readme"
+}
